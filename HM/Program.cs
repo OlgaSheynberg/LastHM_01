@@ -18,3 +18,5 @@ for (int i = 0; i < Array.Length; i++)
         count++;
     }
 }
+
+string[] Array2 = new string[count];
