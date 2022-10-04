@@ -1,0 +1,15 @@
+C:\Users\Оля\Desktop\домашки\LastHomeWork\HM\bin\Debug\net6.0\HM.exe
+C:\Users\Оля\Desktop\домашки\LastHomeWork\HM\bin\Debug\net6.0\HM.deps.json
+C:\Users\Оля\Desktop\домашки\LastHomeWork\HM\bin\Debug\net6.0\HM.runtimeconfig.json
+C:\Users\Оля\Desktop\домашки\LastHomeWork\HM\bin\Debug\net6.0\HM.dll
+C:\Users\Оля\Desktop\домашки\LastHomeWork\HM\bin\Debug\net6.0\HM.pdb
+C:\Users\Оля\Desktop\домашки\LastHomeWork\HM\obj\Debug\net6.0\HM.csproj.AssemblyReference.cache
+C:\Users\Оля\Desktop\домашки\LastHomeWork\HM\obj\Debug\net6.0\HM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Оля\Desktop\домашки\LastHomeWork\HM\obj\Debug\net6.0\HM.AssemblyInfoInputs.cache
+C:\Users\Оля\Desktop\домашки\LastHomeWork\HM\obj\Debug\net6.0\HM.AssemblyInfo.cs
+C:\Users\Оля\Desktop\домашки\LastHomeWork\HM\obj\Debug\net6.0\HM.csproj.CoreCompileInputs.cache
+C:\Users\Оля\Desktop\домашки\LastHomeWork\HM\obj\Debug\net6.0\HM.dll
+C:\Users\Оля\Desktop\домашки\LastHomeWork\HM\obj\Debug\net6.0\refint\HM.dll
+C:\Users\Оля\Desktop\домашки\LastHomeWork\HM\obj\Debug\net6.0\HM.pdb
+C:\Users\Оля\Desktop\домашки\LastHomeWork\HM\obj\Debug\net6.0\HM.genruntimeconfig.cache
+C:\Users\Оля\Desktop\домашки\LastHomeWork\HM\obj\Debug\net6.0\ref\HM.dll
