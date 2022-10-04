@@ -1,6 +1,7 @@
 ﻿Console.Clear();
 Console.Write("Введите размер массива: ");
 int n = int.Parse(Console.ReadLine());
+
 string[] Array = new string[n];
 for (int i = 0; i < n; i++)
 {
