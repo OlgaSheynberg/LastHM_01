@@ -20,3 +20,14 @@ for (int i = 0; i < Array.Length; i++)
 }
 
 string[] Array2 = new string[count];
+
+int j =0;
+for (int i = 0; i < Array.Length; i++)
+{
+    if (Array[i].Length < 4)
+    {
+        Array2[j]= Array[i];
+        j++;
+    }
+}
+Console.WriteLine("Новый массив: "+string.Join(", ", Array2));
